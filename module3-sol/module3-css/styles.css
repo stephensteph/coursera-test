@@ -1,3 +1,36 @@
-h1 {
-	color: red;
+h1, h3 {
+	font-weight: bold;
+	color: black;
+}
+p {
+	color: black;
+	font-family: sans-serif;
+}
+
+#header-nav {
+	border: 1px solid black;
+	border-radius: 0;
+	background-color: grey;
+}
+.container {
+	background-color: grey;
+	height: 1500px;
+	margin: 40px;
+	padding: 0px;
+}
+span {
+	color: black;
+}
+#nav-list {
+	text-align: center;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid black;
+}
+#nav-list a:hover {
+	background-color: aliceblue;
+
+}
+#nav-list a span {
+	font-size: 1.6em;
 }
