@@ -14,13 +14,16 @@ p {
 }
 .container {
 	background-color: grey;
-	height: 1500px;
-	margin: 40px;
-	padding: 0px;
+	height: 2000px;
+	margin-right: 40px; 
+	margin-left: 40px;
+	margin-top: 40px;
 }
 span {
 	color: black;
-}
+	
+	}
+
 #nav-list {
 	text-align: center;
 }
