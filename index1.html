@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style>
+	
+	/*	button {
+			width: 30px;
+			height: 30px;
+			border-radius: 50%;
+			border: 2px solid blue;
+			background-color: white;
+			color: blue;
+			cursor: pointer;
+		};
+	*/
+	</style>
+</head>
+<body>
+
+<div>
+ 	<!-- <button id="bttn">A</button> -->
+</div>
+<p id="demo"></p>
+
+<script>
+
+	// var btn = document.querySelector('button');
+	// var div = document.querySelector('div');
+	// btn.addEventListener('click', function () {
+	// 	var x = document.querySelector('button');
+	// 	if (x.style.color === 'blue') {
+	// 		x.style.color = 'white';
+	// 	} else {
+	// 		x.style.color = 'blue';
+	// 	}
+
+	// 	if (x.style.backgroundColor === 'white') {
+	// 		x.style.backgroundColor = 'blue';
+	// 	} else {
+	// 		x.style.backgroundColor = 'white';
+	// 	}
+
+	// 	if (div.style.border === 'unset') {
+	// 		div.style.border = '2px solid blue';
+	// 	} else {
+	// 		div.style.border = 'unset';
+	// 	}
+	// });
+
+	// btn.addEventListener('blur', function () {
+	// 	div.style.border = 'unset';
+	// });
+
+
+
+
+
+
+
+	// function Circle (radius) {
+	// 	this.radius = radius;
+	// 	console.log(this);
+	// }
+	// Circle.prototype.getArea = 
+	// 	function() {
+	// 		return Math.PI * Math.pow(this.radius, 2);
+	// 	};
+
+	// var myCircle = new Circle(10);
+	// var myOtherCircle = new Circle(20);
+	// console.log(myCircle.getArea());
+
+	// New *anonymous*
+
+	// function Circle(radius) {
+	// 	this.radius = radius;
+	// 	this.getArea = function () {
+	// 		console.log(this);
+	// 		return Math.PI * Math.pow(this.radius, 2);
+	// 	};
+	// }
+
+	// var myCircle = new Circle(10);
+	// var myOtherCircle = new Circle(20);
+	// console.log(myCircle.getArea());
+	// console.log(myOtherCircle.getArea());
+
+
+	// New
+
+	// var literalCircle = {
+	// 	radius: 10,
+	// 	getArea: function () {
+	// 		var self = this;
+	// 		console.log(this);
+
+	// 		var increasRadius = function () {
+	// 			self.radius = 20;
+	// 		};
+	// 		increasRadius();
+	// 		console.log(this.radius);
+	// 		return Math.PI * Math.pow(this.radius, 2);
+	// 	}
+	// };
+
+	// console.log(literalCircle.getArea());
+
+	// //New
+
+	// function person(first, last, age, color) {
+	// 	this.firstName = first;
+	// 	this.lastName = last;
+	// 	this.age = age;
+	// 	this.color = color;
+	// 	console.log(this);
+	// }
+	// var myFather = new person("Steve", "Black", 16, "Blue");
+	// var myMother = new person("Stefano", "Monroe", 16, "Blue");
+	// console.log(myMother.firstName);
+
+
+	// New
+
+	// var array = new Array();
+	// array[0] = "Stefano";
+	// array[1]= 7;
+	// array[2] = function (name) {
+	// 	console.log("Hello " + name);
+	// };
+	// array[3] = {Nickname: "Steve Black"};
+
+	// console.log(array);
+	// console.log(array[1]);
+	// array[2](array[0]);
+	// console.log(array[3].Nickname);
+
+
+
+	// New
+
+	// Shorthand array creation 
+
+	// var names = ["Stefano", "Steve", "Black", "Steph", {girl: "Sylvie"}];
+	// console.log(names);
+	//console.log(names.girl);
+
+	// names[100] = "Monroe";
+	// for (var i = 0; i < names.length; i++) {
+	// 	console.log("Hello " + names[i]);
+	// }
+
+
+	// New
+
+	// var myObj = {
+	// 	name: "Stefano Monroe",
+	// 	color: "Blue",
+	// 	Nickname: "Steve Black",
+	// 	Loves: "Computer Programming"
+	// };
+
+	// for (var prop in myObj) {
+	// 	console.log(prop + ": " + myObj[prop]);
+	// }
+
+	// var names2 = ["Stefano", "Steve", "Black", "Steph"];
+	// names2.girl = "Sylvie";
+
+	// for (var name in names2) {
+	// 	console.log("Hello " + names2[name]);
+	// }
+
+	// console.log(names2);
+
+
+	/*
+	(function (window){
+		var SteveGreeter = {};
+		SteveGreeter.name = "Stefano";
+		var greeting = "Hello";
+		SteveGreeter.sayHello = function () {
+			console.log(greeting + " " + SteveGreeter.name);
+		}
+
+		window.SteveGreeter = SteveGreeter;
+		SteveGreeter.sayHello();
+		
+	})(window);
+	
+	SteveGreeter.sayHello();*/
+
+
+
+
+	// console.log("window's width : " + window.innerWidth);
+	// console.log("window's height : " + window.innerHeight);
+	// console.log("screen's width : " + screen.width);
+	// console.log("screen's height : " + screen.height);
+	// console.log("Available screen width : " + screen.availWidth);
+	// console.log("Available screen height : " + screen.availHeight);
+
+
+	// console.log(location.href);
+	// console.log(location.hostname);
+
+
+	// console.log(history);
+
+	// console.log(navigator.cookieEnabled);
+	// console.log(navigator.appName);
+	// console.log(navigator.appCodeName);
+	// console.log(navigator.product);
+	// console.log(navigator.appVersion);
+	// console.log(navigator.userAgent);
+	// console.log(navigator.platform);
+	// console.log(navigator.language);
+	// console.log(navigator.onLine);
+	// console.log(navigator.javaEnabled());
+
+	// alert("I am an alert Box!");
+
+	// var confm = confirm("Press a button");
+	// var x;
+	// if (confm == true) {
+	// 	x = "You pressed Ok!";
+	// } else {
+	// 	x = "You pressed cancel!";
+	// };
+
+	// console.log(x);
+
+
+
+	// var promp = prompt("Enter your name", "Stefano Monroe");
+	// if (promp != null) {
+	// 	console.log("Hey " + promp + ", How are you doing?")
+	// };
+
+	var myVar = setInterval(myFunction, 1000);
+	function myFunction() {
+		var d = new Date();
+		document.getElementById('demo').innerHTML = d;
+	}
+
+
+
+</script>
+</body>
+</html>

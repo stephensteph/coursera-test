@@ -1,0 +1,471 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hom",
+				"homeHtmlToInsertIntoMainPage"
+			],
+			[
+				"home",
+				"homeHtmlUrl"
+			],
+			[
+				"chos",
+				"chosenCategoryShortName"
+			],
+			[
+				"ho",
+				"homeHtml"
+			],
+			[
+				"catgo",
+				"categories"
+			],
+			[
+				"c",
+				"chooseRandomCategory"
+			],
+			[
+				"choose",
+				"chooseRandomCategory"
+			],
+			[
+				"ran",
+				"randomCategoryShortName"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"choos",
+				"chooseRandomCategory"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"ch",
+				"chosenCategoryShortName"
+			],
+			[
+				"bui",
+				"buildAndShowHomeHTML"
+			],
+			[
+				"fl",
+				"False"
+			],
+			[
+				"h",
+				"homeHtml"
+			],
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"re",
+				"retrieved"
+			],
+			[
+				"r",
+				"retrieve"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"all",
+				"allCategoriesUrl"
+			],
+			[
+				"main",
+				"main-content"
+			],
+			[
+				"show",
+				"showLoading"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"na",
+				"names"
+			],
+			[
+				"w",
+				"window"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"i",
+				"id	Attr"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"pai",
+				"paint_cell"
+			],
+			[
+				"s",
+				"strokeRect"
+			],
+			[
+				"str",
+				"strokeStyle"
+			],
+			[
+				"fill",
+				"fillRect"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"crea",
+				"create-snake"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mr",
+				"margin-left"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"tx",
+				"text-decoration"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"text-s",
+				"text-transform"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text-a",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/DELL/coursera-test/module5-sol/js/script.js",
+		"/C/Users/DELL/coursera-test/jquery-3.1.0.min (1).js",
+		"/C/Users/DELL/coursera-test/bootstrap-3.3.7-dist.zip",
+		"/C/Users/DELL/coursera-test/module3-sol",
+		"/C/Users/DELL/coursera-test/module2-sol",
+		"/C/Users/DELL/coursera-test/css.html",
+		"/C/Users/DELL/coursera-test/css/style.css",
+		"/C/Users/DELL/coursera-test/module2-sol/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\DELL\\coursera-test\\module3-sol\\module3-css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"submlimme",
+			"yeah"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "homepage1.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
